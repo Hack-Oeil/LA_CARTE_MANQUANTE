@@ -2,7 +2,10 @@
 FROM php:8.2-apache
 
 # Installer Python et Node.js
-RUN apt-get update && apt-get install -y python3 nodejs
+RUN apt-get update && apt-get install -y python3 nodejs npm
+
+# Installer vm2
+RUN npm i vm2
 
 # Copier les fichiers de l'application dans le conteneur
 COPY ./www/ /var/www/html/
