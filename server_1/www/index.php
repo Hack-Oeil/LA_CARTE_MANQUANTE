@@ -47,7 +47,7 @@
                 <select id="language_choice">
                     <option value="js">Javascript</option>
                     <option value="php">PHP</option>
-                    <option value="py">Python</option>
+                    <!--<option value="py">Python</option>-->
                 </select>
             </h4>
             <form>                
