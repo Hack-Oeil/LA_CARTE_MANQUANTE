@@ -8,7 +8,7 @@ Créez un algorithme qui vous retournera la valeur correspondante à la carte ma
 
 
 ## Aperçu
-![infos/capture.jpg](infos/capture.jpg)
+![./presentation/assets/images/capture.jpg](./presentation/assets/images/capture.jpg)
 
 
 -----------
